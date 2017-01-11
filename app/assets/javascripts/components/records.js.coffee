@@ -1,5 +1,5 @@
 @Records = React.createClass
   render: ->
-    `<div className="records">
+    <div className="records">
       <h2 className="title"> Records </h2>
-    </div>`
+    </div>
